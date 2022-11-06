@@ -40,4 +40,4 @@ Below is a summary of the analysis:
 
 •	There are approximately 4.5 times more annual subscribers than short-term customers. 
 
-Additional visualizations could include distance traveled and age of bike to assist with analysis on maintence/repair costs. 
+Additional visualizations could include distance traveled and age of bike to assist with analysis on maintenance and repair costs. 
