@@ -31,8 +31,11 @@ both female and male riders.
 
 ## Summary
 Below is a summary of the analysis:
+
 •	Peak ride hours fall on Mondays, Tuesdays, Thursdays and Fridays between 5pm and 6pm for both female and male subscribers. 
+
 •	Peak duration ride bikes are approximately 10 minutes for all users. 
+
 •	There are approximately 4.5 times more annual subscribers than short-term customers. 
 
 Additional visualizations could include distance traveled and age of bike to assist with analysis on maintence/repair costs. 
