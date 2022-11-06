@@ -22,8 +22,8 @@ popular weekday for peak hour 8am.
 •	User Trips by Gender by Weekday: This heatmap shows that for both male and female Subscribers, most popular weekday for bike rides is Thursday. For all
 three indicators, female, male and unknown customers, there is no significant peak time for bike rides. 
 
-•	Customer Breakdown: Provides a breakdown of riders by user type, subscriber are annual customers while customers are short-term. Out of a total of
-2,344,224, 1,900,359 are subscribers and 443,865 are customers. 
+•	Customer Breakdown: Provides a breakdown of riders by user type, annual subscribers and short-term customers. Out of a total of 2,344,224, subscribers
+total 1,900,359 while customers total 443,865. 
 
 •	Checkout Times for Users: This graph shows that for all riders, the majority of bike rides last less than 40 minutes, with peak duration at 
 approximately 10 minutes. 
