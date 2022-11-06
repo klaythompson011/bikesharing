@@ -7,7 +7,7 @@ The purpose of this analysis is to present to investors the NYC bike trip analys
 
 Citi Bike data used for the analysis is for bike rides in NYC for the month of August. 
 
-The following is a summary of the analysis that can be found [here] ("https://public.tableau.com/app/profile/sally6562/viz/NYCCitibikeAnalysis_16677751539650/Analysis?publish=yes"):
+The following is a summary of the analysis that can be found [here](https://public.tableau.com/app/profile/sally6562/viz/NYCCitibikeAnalysis_16677751539650/Analysis?publish=yes):
 
 •	August Peak Hours: This table shows the number of peak hours in the month of August. Based on the table, most popular times for bike rides to 
 begin are at 8am and between 5pm and 6pm. 
@@ -19,9 +19,11 @@ popular weekday for peak hour 8am.
 •	Trips by Gender: This heatmap further breakdowns the prior heatmap by gender. For both indicators female and male, peak hours are Thursday at 
 8am and Monday, Tuesday, Thursday and Friday between 5pm and 6pm. For indicator unknown, the heatmap does not show a distinguishable peak hour.
 
-•	User Trips by Gender by Weekday: This heatmap shows that for both male and female Subscribers, most popular weekday for bike rides is Thursday. For all three indicators, female, male and unknown customers, there is no significant peak time for bike rides. 
+•	User Trips by Gender by Weekday: This heatmap shows that for both male and female Subscribers, most popular weekday for bike rides is Thursday. For all
+three indicators, female, male and unknown customers, there is no significant peak time for bike rides. 
 
-•	Customer Breakdown: Provides a breakdown of riders by user type, subscriber are annual customers while customers are short-term. Out of a total of 2,344,224, 1,900,359 are subscribers and 443,865 are customers. 
+•	Customer Breakdown: Provides a breakdown of riders by user type, subscriber are annual customers while customers are short-term. Out of a total of
+2,344,224, 1,900,359 are subscribers and 443,865 are customers. 
 
 •	Checkout Times for Users: This graph shows that for all riders, the majority of bike rides last less than 40 minutes, with peak duration at 
 approximately 10 minutes. 
