@@ -28,7 +28,7 @@ total 1,900,359 while customers total 443,865.
 •	Checkout Times for Users: This graph shows that for all riders, the majority of bike rides last less than 40 minutes, with peak duration at 
 approximately 10 minutes. 
 
-•	Checkout. Times by Gender: This graph further breaks down trip durations by gender. Peak trip duration remains at approximately 10 minutes for 
+•	Checkout Times by Gender: This graph further breaks down trip durations by gender. Peak trip duration remains at approximately 10 minutes for 
 both female and male riders. 
 
 ## Summary
