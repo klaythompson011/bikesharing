@@ -13,7 +13,7 @@ The following is a summary of the analysis that can be found [here](https://publ
 begin are at 8am and between 5pm and 6pm. 
 
 •	Trips by Weekday per Hour: This heatmap further shows the peak hours broken out by time and day of week. In line with the prior table, peak 
-hours for bike rides between 5pm and 6pm and most popular on Thursday followed by Monday and Tuesday and then Friday. Thursday is also the most 
+hours for bike rides between 5pm and 6pm are most popular on Thursday followed by Monday and Tuesday and then Friday. Thursday is also the most 
 popular weekday for peak hour 8am. 
 
 •	Trips by Gender: This heatmap further breakdowns the prior heatmap by gender. For both indicators female and male, peak hours are Thursday at 
