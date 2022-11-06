@@ -7,7 +7,7 @@ The purpose of this analysis is to present to investors the NYC bike trip analys
 
 Citi Bike data used for the analysis is for bike rides in NYC for the month of August. 
 
-The analysis summarizes the following data:
+The following is a summary of the analysis that can be found here :
 
 •	August Peak Hours: This table shows the number of peak hours in the month of August. Based on the table, most popular times for bike rides to 
 begin are at 8am and between 5pm and 6pm. 
